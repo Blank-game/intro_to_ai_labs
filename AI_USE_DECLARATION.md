@@ -4,7 +4,7 @@ Course: Introduction to Artificial Intelligence
 Lab Title: Lab 1 Part A — Uninformed Search Algorithms
 Student Name: _Kofi Mason__________________________________________________
 Student ID: _87342026_____________________________________________________
-GitHub Repository Link: ___________________________________________
+GitHub Repository Link: ___https://github.com/Blank-game/intro_to_ai_labs/tree/main________________________________________
 Date Submitted: _20/06/26_________________________________________________
 
  
